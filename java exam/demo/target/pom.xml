@@ -1,0 +1,5 @@
+# set your repo URL
+        git remote add origin https://github.com/<your-username>/<your-repo>.git
+
+    # push the current branch (you’re on master)
+    git push -u origin master
